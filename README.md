@@ -1,4 +1,3 @@
-![minimax](https://user-images.githubusercontent.com/83718657/118381638-d8285b00-b5ba-11eb-9179-394cdf152c6d.png)
 # Tic-Tac-Toe
 
 TicTacToe too easy? Competition too soft? This AI will give you a run for your money!
@@ -27,8 +26,9 @@ the maximum score, while the minimizer tries to choose a state with the minimum 
 try to counter each other, given that each makes the best possible move as aformentioned.
 
 ### Visualization
+
 <p align="center">
-<img width=1000 src="/wp-content/uploads/2017/07/minimax.png">
+<img width=1000 src="https://user-images.githubusercontent.com/83718657/118381638-d8285b00-b5ba-11eb-9179-394cdf152c6d.png">
 
 </p>
 
