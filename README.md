@@ -1,3 +1,4 @@
+![minimax](https://user-images.githubusercontent.com/83718657/118381638-d8285b00-b5ba-11eb-9179-394cdf152c6d.png)
 # Tic-Tac-Toe
 
 TicTacToe too easy? Competition too soft? This AI will give you a run for your money!
